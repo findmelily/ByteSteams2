@@ -1,5 +1,5 @@
 
-package bytepib;
+package bytestreams2;
 
 public class Student {
     String id;
