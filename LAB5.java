@@ -1,4 +1,4 @@
-package bytepib;
+package bytestreams2;
 
 import java.io.*;
 import java.util.logging.Level;
